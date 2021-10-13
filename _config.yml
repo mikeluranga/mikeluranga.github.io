@@ -1,8 +1,8 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: Pelayo Arbués.
-description: "Pelayo Arbués. Data scientist passionate about data, photography and economics."
+title: Mikel Uranga.
+description: "Mikel Uranga. Data Plumber."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: ""
@@ -27,23 +27,20 @@ colors:  #in hex code if not noted else
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
   - title: twitter
-    url: http://twitter.com/pelayoarbues
+    url: https://twitter.com/mikelurangab
   - title: linkedin
-    url: http://es.linkedin.com/in/pelayogonzalez
+    url: https://www.linkedin.com/in/mikel-uranga-barro
   - title: github
-    url: http://github.com/pelayoarbues
-  - title: instagram
-    url: http://instagram.com/pelayoarbues
-  - title: tumblr
-    url: http://pelayoarbues.tumblr.com
-
+    url: http://github.com/mikeluranga
+  - title: wordpress
+    url: https://datuenzientzia.wordpress.com
     
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines: 
     - Madrid
     - Spain
-email: info@pelayoarbues.com
+email: 
 tel: 
 
 
@@ -51,30 +48,30 @@ tel:
     
 # Members information. Shown on About page.
 members:
-  - name: Pelayo Arbués
-    position: Ph.D.
+  - name: Mikel Uranga
+    position: Data Scientist
     text:
-    img: team01.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:pelayoarbues@gmail.com
-      - title: twitter
-        url: http://twitter.com/pelayoarbues
+#   img: team01.jpg
+#    social:
+#      - title: envelope #use for email address
+#        url: mailto:pelayoarbues@gmail.com
+#      - title: twitter
+#        url: http://twitter.com/pelayoarbues
  
     
 # Clients information. Shown on Home and About pages.
-clients:
-  - name: dribbble
-    img: client01.png
-  - name: Code is Poetry
-    img: client02.png
-  - name: Vimeo
-    img: client03.png
-  - name: VimeoPro
-    img: client04.png
+#clients:
+#  - name: dribbble
+#    img: client01.png
+#  - name: Code is Poetry
+#    img: client02.png
+#  - name: Vimeo
+#    img: client03.png
+#  - name: VimeoPro
+#    img: client04.png
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Pelayo Arbués holds a Ph.D. in Economics, is passionate about data science, economics and photography"
+about: "Mikel Uranga is a Data Plumber passionate about Data Science, Data Engineering and Process Automations"
 
 # Testimonial content. Shown on Home and About page. 
 #testimonial:
